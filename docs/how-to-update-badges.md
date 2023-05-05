@@ -1,6 +1,6 @@
 ## To create a status badge for a GitHub workflow, follow the instructions below:
 
-1. **Next**, go to the **Actions** tab in your GitHub repository, where you will see a list of your workflows.
+1. Go to the **Actions** tab in your GitHub repository, where you will see a list of your workflows.
 
 2. Click on the name of the workflow for which you want to create a status badge.
 
